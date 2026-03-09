@@ -1,0 +1,20 @@
+# JetBrains IDEs
+.idea/
+*.iml
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+venv/
+ENV/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Your specific sensitive files (if any)
+.env
+requirements.txt  # 有时候人们选择不提交生成的 requirements，视团队习惯而定，但通常建议提交
+
