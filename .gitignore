@@ -15,6 +15,6 @@ ENV/
 Thumbs.db
 
 # Your specific sensitive files (if any)
-.env
+smart_dian_can/.env
 requirements.txt  # 有时候人们选择不提交生成的 requirements，视团队习惯而定，但通常建议提交
 
